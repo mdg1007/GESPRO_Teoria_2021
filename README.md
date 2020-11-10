@@ -5,3 +5,4 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Álvaro Manjón Vara](https://github.com/xmv1001)
+- [María Alonso Peláez](https://github.com/map10100)
